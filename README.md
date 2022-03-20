@@ -1,1 +1,1 @@
-# tri is cli tools which recode some todo things.
+# tri is a cli tools which recodes todo items.
